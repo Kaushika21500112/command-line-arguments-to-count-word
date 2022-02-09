@@ -7,7 +7,7 @@ Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1: Create a text file in a specific loaction of interest.
 
-### Step 2: ON the same location as the text file, create a python program file.
+### Step 2: On the same location as the text file, create a python program file.
  
 ### Step 3: In python Program, import sys and open a text file with argument "sys.argv[1]"
 
