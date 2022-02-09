@@ -38,7 +38,7 @@ f1.close()
 ## OUTPUT:
 ### Text File "File1.txt":
 ![](text.png)
-### Command Powershell command prompt:
+### Command Powershell prompt:
 ![](cmdoutput.png)
 
 ## RESULT:
